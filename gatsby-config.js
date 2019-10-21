@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Starter Landing Page`,
-    description: `A barebone landing page starter with some minimal styles.`,
+    title: `Popular Social App ✊`,
+    description: `Aplicación del pueblo.`,
     author: `@gillkyle`,
-    siteUrl: `https://gatsby-starter-landing-page.netlify.com`,
+    siteUrl: `https://popular-social-app.netlify.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
